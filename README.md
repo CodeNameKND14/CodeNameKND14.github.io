@@ -1,1 +1,1 @@
-My Portfolio! -> https://codenameknd14.github.io/
+My Portfolio! https://codenameknd14.github.io/
